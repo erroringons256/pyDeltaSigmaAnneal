@@ -1,0 +1,11 @@
+circBuf library
+
++initialise circBuf
++roll circBuf
++get circBuf at pos
++set circBuf at pos
++set entire circBuf
++get entire circBuf
+
++test functionality
+
